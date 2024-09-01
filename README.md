@@ -15,12 +15,6 @@ Original song: Quazar of Sanxion
 Converted to SF2/MIDI combo with [2MIDI](https://www.un4seen.com/2midi/).
 Converted to RMIDI via SpessaSynth.
 
-## Unreeal Superhero 3
-Original song: Kenet & Rez
-
-Converted to SF2/MIDI combo with [2MIDI](https://www.un4seen.com/2midi/).
-Converted to RMIDI via SpessaSynth.
-
 ## Bladeswede Remix
 Original song: Allister Brimble
 
@@ -33,3 +27,8 @@ Original song: Alstroemeria Records and Nomico, originally composed by ZUN
 Sequenced to MIDI by: s__msgs
 
 Taken from: [Touhou MIDI Collection](https://gamebanana.com/projects/35179)
+
+## Let me say
+Original song: Niko Boese
+
+Taken from [RIFF MIDI DLS files](https://archive.org/details/RIFF-MIDI-DLS).
