@@ -1,22 +1,27 @@
 [
   {
     "name": "Field Of Hopes and Dreams - Deltarune",
-    "fileName": "Field of Hopes and Dreams.rmi"
+    "fileName": "Field of Hopes and Dreams.rmi",
+    "credits": "Original song: Toby Fox\nArrangement: Insignify Music (@InsignifyMusic on YouTube)\nSoundFont: most instruments are from LiveHQ Natural SoundFont GM v2.5. Piano is from FluidR3_GM.\nConverted to RMIDI via SpessaSynth."
   },
   {
     "name": "Bad Apple!! - Alstroemeria Records",
-    "fileName": "bad_apple_feat_nomico_s__msgs.mid"
+    "fileName": "bad_apple_feat_nomico_s__msgs.mid",
+    "credits": "Original song: Alstroemeria Records and Nomico, originally composed by ZUN\nSequenced to MIDI by: s__msgs\nTaken from touhou-midi-collection on GitHub."
   },
   {
     "name": "Hybrid Song/Funky Stars - Quazar of Sanxion",
-    "fileName": "Hybrid song 2_20.rmi"
+    "fileName": "Hybrid song 2_20.rmi",
+    "credits": "Original song: Quazar of Sanxion\nConverted to SF2/MIDI combo with 2MIDI from Un4seen.\nConverted to RMIDI via SpessaSynth."
   },
   {
     "name": "Let Me Say - Niko Boese",
-    "fileName": "LETMESAY.rmi"
+    "fileName": "LETMESAY.rmi",
+    "credits": "Original song: Niko Boese. Original song: Niko Boese\nTaken from RIFF MIDI DLS on archive.org."
   },
   {
     "name": "Bladeswede Remix - Allister Brimble",
-    "fileName": "projectx.rmi"
+    "fileName": "projectx.rmi",
+    "credits": "Original song: Allister Brimble\nConverted to SF2/MIDI combo with 2MIDI from Un4seen.\nConverted to RMIDI via SpessaSynth."
   }
 ]
