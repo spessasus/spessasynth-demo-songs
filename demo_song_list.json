@@ -1,13 +1,13 @@
 [
   {
+    "name": "The HYBRID Collage - S. Christian Collins",
+    "fileName": "The HYBRID Collage (v2.0).mid",
+    "credits": "Arranged and composed by: S. Christian Collins\n for the GeneralUserGS sound bank."
+  },
+  {
     "name": "Field Of Hopes and Dreams - Deltarune",
     "fileName": "Field of Hopes and Dreams.rmi",
     "credits": "Original song: Toby Fox\nArrangement: Insignify Music (@InsignifyMusic on YouTube)\nSoundFont: most instruments are from LiveHQ Natural SoundFont GM v2.5. Piano is from FluidR3_GM.\nConverted to RMIDI via SpessaSynth."
-  },
-  {
-    "name": "Bad Apple!! - Alstroemeria Records",
-    "fileName": "bad_apple_feat_nomico_s__msgs.mid",
-    "credits": "Original song: Alstroemeria Records and Nomico, originally composed by ZUN\nSequenced to MIDI by: s__msgs\nTaken from touhou-midi-collection on GitHub."
   },
   {
     "name": "Hybrid Song/Funky Stars - Quazar of Sanxion",

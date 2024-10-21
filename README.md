@@ -1,6 +1,9 @@
 Demo songs for SpessaSynth website. Not made by me!!!
 
 # Demo song credits
+## The HYBRID Collage
+Arranged and composed by: S. Christian Collins.
+
 ## Field of Hopes and Dreams
 Original song: Toby Fox
 
@@ -20,13 +23,6 @@ Original song: Allister Brimble
 
 Converted to SF2/MIDI combo with [2MIDI](https://www.un4seen.com/2midi/).
 Converted to RMIDI via SpessaSynth.
-
-## Bad Apple!! Feat. Nomico
-Original song: Alstroemeria Records and Nomico, originally composed by ZUN
-
-Sequenced to MIDI by: s__msgs
-
-Taken from: [Touhou MIDI Collection](https://gamebanana.com/projects/35179)
 
 ## Let me say
 Original song: Niko Boese
