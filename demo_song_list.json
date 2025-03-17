@@ -5,11 +5,6 @@
     "credits": "Arranged and composed by: S. Christian Collins\n for the GeneralUserGS sound bank."
   },
   {
-    "name": "Your Destiny - spessasus",
-    "fileName": "Your Destiny4 GUGS.mid",
-    "credits": "Original by Nokia, remixed by spessasus (me)\nIntended for the built-in GeneralUserGS bank."
-  },
-  {
     "name": "Dance - Creative Technology",
     "fileName": "Dance.mid",
     "credits": "Created by Creative Technology Ltd. in 1994 for AWE32 demo disk.\nIncluded as demo in GeneralUserGS."
@@ -38,5 +33,10 @@
     "name": "Bladeswede Remix - Allister Brimble",
     "fileName": "projectx.rmi",
     "credits": "Original song: Allister Brimble\nConverted to SF2/MIDI combo with 2MIDI from Un4seen.\nConverted to RMIDI via SpessaSynth."
+  },
+  {
+    "name": "Your Destiny - spessasus",
+    "fileName": "Your Destiny4 GUGSv2.mid",
+    "credits": "Original by Nokia, remixed by spessasus (me)\nIntended for the built-in GeneralUserGS bank."
   }
 ]
