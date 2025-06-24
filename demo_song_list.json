@@ -15,9 +15,14 @@
     "credits": "Created by Mitsuru Sakaue for Roland Corporation in 1993.\nIncluded as demo in GeneralUserGS."
   },
   {
-    "name": "Field Of Hopes and Dreams - Deltarune",
+    "name": "Field Of Hopes and Dreams - DELTARUNE",
     "fileName": "Field of Hopes and Dreams.rmi",
     "credits": "Original song: Toby Fox\nArrangement: Insignify Music (@InsignifyMusic on YouTube)\nSoundFont: most instruments are from LiveHQ Natural SoundFont GM v2.5. Piano is from FluidR3_GM.\nConverted to RMIDI via SpessaSynth."
+  },
+  {
+    "name": "TV WORLD - DELTARUNE",
+    "fileName": "TV WORLD.rmi",
+    "credits": "Original song: Toby Fox\nRecreation: Storm (@stormstudios1 on YouTube)\nRearranged for GS MIDI by spessasus (me)\nSamples come from LiveHQ v2.5, FluidR3_GM and GeneralUserGS.\nConverted to RMIDI via SpessaSynth."
   },
   {
     "name": "Hybrid Song/Funky Stars - Quazar of Sanxion",

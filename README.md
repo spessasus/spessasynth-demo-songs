@@ -1,8 +1,18 @@
-Demo songs for SpessaSynth website. Not made by me!!!
+Demo songs for SpessaSynth website.
+
+If your song is on the list, and you'd like to have it removed, please email me
+at spesekspesek@gmail.com and action will be taken accordingly.
 
 # Demo song credits
 ## The HYBRID Collage
 Arranged and composed by: S. Christian Collins.
+
+## TV World
+Original song: Toby Fox
+
+Recreation: [storm](https://www.youtube.com/@stormstudios1)
+
+Rearranged for GS by me.
 
 ## Field of Hopes and Dreams
 Original song: Toby Fox
