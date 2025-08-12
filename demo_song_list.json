@@ -15,6 +15,36 @@
     "credits": "Created by Mitsuru Sakaue for Roland Corporation in 1993.\nIncluded as demo in GeneralUserGS."
   },
   {
+    "name": "The Name's Bond... James Bond",
+    "fileName": "Bond.mid",
+    "credits": "Original song: \"The Name's Bond... James Bond\" - David Arnold\nArrangement: Unknown (no author stated in the MIDI file).\n\nIncluded as demo song in GeneralUserGS."
+  },
+  {
+    "name": "Breakout",
+    "fileName": "Breakout.mid",
+    "credits": "By Edizioni Milano Publishing (C) 1994 INTERNATIONAL MIDI HITS\n\nIncluded as demo song in GeneralUserGS."
+  },
+  {
+    "name": "Jump!",
+    "fileName": "Jump!.mid",
+    "credits": "Arrangement: Unknown (no author stated in the MIDI file).\n\nIncluded as demo song in GeneralUserGS."
+  },
+  {
+    "name": "Roof Garden - Al Jarreau",
+    "fileName": "majicalljarr.mid",
+    "credits": "Original song: Al Jarreau\n\nArranged by: (C) 1993 Edirol\n\nIncluded as demo song in GeneralUserGS."
+  },
+  {
+    "name": "To Make the End of Battle - Ys II",
+    "fileName": "To Make the End of Battle.mid",
+    "credits": "Original song: YS II by Yuzo Koshiro (C)NIHON Falcom\n\nArranged for SC-88 by kou1.\n\nIncluded as demo song in GeneralUserGS."
+  },
+  {
+    "name": "Umi No Mieru Machi",
+    "fileName": "Umi no Mieru Machi.mid",
+    "credits": "Original song: From \"Kiki's Delivery Service\" Joe Hisaishi\n\nArranged by: (C)1991 Roland Corporation\n\nIncluded as demo song in GeneralUserGS."
+  },
+  {
     "name": "Field Of Hopes and Dreams - DELTARUNE",
     "fileName": "Field of Hopes and Dreams.rmi",
     "credits": "Original song: Toby Fox\nArrangement: Insignify Music (@InsignifyMusic on YouTube)\nSoundFont: most instruments are from LiveHQ Natural SoundFont GM v2.5. Piano is from FluidR3_GM.\nConverted to RMIDI via SpessaSynth."
