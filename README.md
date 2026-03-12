@@ -16,14 +16,12 @@ Recreation: [storm](https://www.youtube.com/@stormstudios1)
 
 Rearranged for GS by me.
 
-## Field of Hopes and Dreams
+## A Cruel Angel's Thesis 
 
-Original song: Toby Fox
+Original song: Hidetoshi Satō, Toshiyuki Ōmori
+From: *Neon Genesis Evangelion*
 
-Arrangement: [Insignify Music](https://www.youtube.com/@InsignifyMusic/)
-
-SoundFont: SpessaSynthGMGS merge (mostly [this](https://musical-artifacts.com/artifacts/1176). Piano from FluidR3_GM)
-Converted to RMIDI via SpessaSynth.
+MIDI Recreation: [ZEL](https://www.youtube.com/watch?v=TlywazQV82E)
 
 ## Hybrid Song / Funky Stars
 
