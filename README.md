@@ -41,7 +41,8 @@ Converted to RMIDI via SpessaSynth.
 
 Original song: Niko Boese
 
-Taken from [RIFF MIDI DLS files](https://archive.org/details/RIFF-MIDI-DLS).
+Taken from [AWE 32 MIDI conversions](https://github.com/mrbumpy409/AWE32-midi-conversions).
+Converted to RMIDI via SpessaSynth.
 
 ## J-Cycle
 
