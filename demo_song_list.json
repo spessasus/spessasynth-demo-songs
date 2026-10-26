@@ -1,8 +1,14 @@
 [
   {
+    "name": "Your Destiny (2026) - spessasus",
+    "fileName": "Your Destiny (2026).rmi",
+    "credits": "Original by Nokia, remixed by spessasus (me)\nThe new demo song for the 4.4.0 update,\nshowcasing the new User Drum Set feature.\nRemastered for the latest SpessaSynth.",
+    "fullMIDISupport": true
+  },
+  {
     "name": "The HYBRID Collage - S. Christian Collins",
     "fileName": "The HYBRID Collage (v2.0).mid",
-    "credits": "Arranged and composed by: S. Christian Collins\n for the GeneralUserGS sound bank."
+    "credits": "Arranged and composed by: S. Christian Collins\nfor the GeneralUserGS sound bank."
   },
   {
     "name": "Dance - Creative Technology",
@@ -58,9 +64,10 @@
   },
   {
     "name": "Hybrid Song/Funky Stars - Quazar of Sanxion",
-    "fileName": "Hybrid song 2_20.rmi",
-    "credits": "Original song: Quazar of Sanxion\nConverted to SF2/MIDI combo with 2MIDI from Un4seen.\nConverted to RMIDI via SpessaSynth.",
-    "loop": true
+    "fileName": "hybrid song.xm",
+    "credits": "Original song: Quazar of Sanxion",
+    "loop": true,
+    "fullMIDISupport": true
   },
   {
     "name": "Let Me Say - Niko Boese",
@@ -68,14 +75,16 @@
     "credits": "Original song: Niko Boese\nTaken from RIFF MIDI DLS on archive.org."
   },
   {
-    "name": "Bladeswede Remix - Allister Brimble",
-    "fileName": "projectx.rmi",
-    "credits": "Original song: Allister Brimble\nConverted to SF2/MIDI combo with 2MIDI from Un4seen.\nConverted to RMIDI via SpessaSynth.",
-    "loop": true
+    "name": "Apoplexy - Bee Hunter",
+    "fileName": "apoplexy.mod",
+    "credits": "Original song: Bee Hunter",
+    "fullMIDISupport": true
   },
   {
-    "name": "Your Destiny - spessasus",
-    "fileName": "Your Destiny4 GUGSv2.mid",
-    "credits": "Original by Nokia, remixed by spessasus (me)\nIntended for the built-in GeneralUserGS bank."
+    "name": "Bladeswede Remix - Allister Brimble",
+    "fileName": "projectx.mod",
+    "credits": "Original song: Allister Brimble",
+    "fullMIDISupport": true,
+    "loop": true
   }
 ]

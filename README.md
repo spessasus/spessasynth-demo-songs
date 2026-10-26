@@ -7,7 +7,9 @@ at spesekspesek@gmail.com and action will be taken accordingly.
 
 ## The HYBRID Collage
 
-Arranged and composed by: S. Christian Collins.
+Arranged and composed by: S. Christian Collins
+
+Made for the default GeneralUserGS sound bank.
 
 ## TV World
 Original song: Toby Fox
@@ -27,15 +29,13 @@ MIDI Recreation: [ZEL](https://www.youtube.com/watch?v=TlywazQV82E)
 
 Original song: Quazar of Sanxion
 
-Converted to SF2/MIDI combo with [2MIDI](https://www.un4seen.com/2midi/).
-Converted to RMIDI via SpessaSynth.
+## Apoplexy
+
+Original song: Bee Hunter
 
 ## Bladeswede Remix
 
 Original song: Allister Brimble
-
-Converted to SF2/MIDI combo with [2MIDI](https://www.un4seen.com/2midi/).
-Converted to RMIDI via SpessaSynth.
 
 ## Let me say
 
@@ -59,7 +59,7 @@ Included as demo song in GeneralUserGS.
 
 ## Breakout
 
-By Edizioni Milano Publishing (C) 1994 INTERNATIONAL MIDI HITS
+By Edizioni Milano Publishing © 1994 INTERNATIONAL MIDI HITS
 
 Included as demo song in GeneralUserGS.
 
@@ -79,7 +79,7 @@ Included as demo song in GeneralUserGS.
 
 Original song: Al Jarreau
 
-Arranged by: (C) 1993 Edirol
+Arranged by: © 1993 Edirol
 
 Included as demo song in GeneralUserGS.
 
@@ -95,12 +95,13 @@ Included as demo song in GeneralUserGS.
 
 Original song: From "Kiki's Delivery Service" Joe Hisaishi
 
-Arranged by: (C)1991 Roland Corporation
+Arranged by: © 1991 Roland Corporation
 
 Included as demo song in GeneralUserGS.
 
-## Your destiny
+## Your destiny (2026)
 
 Original song: Nokia
 
 Remixed by me.
+Remastered for the 4.4.0 update, featuring the original mix of instruments.
